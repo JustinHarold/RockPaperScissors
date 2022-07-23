@@ -1,5 +1,5 @@
 function getUserChoice (userInput) {
-    userInput = prompt("pick rock paper scissors")
+    //userInput = prompt("pick rock paper scissors")
     userInput = userInput.toLowerCase();
     if (userInput === 'rock' || 
     userInput === 'scissors' || 
